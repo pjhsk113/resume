@@ -4,28 +4,19 @@ const backend: ISkill.Skill = {
   category: 'Back-end',
   items: [
     {
-      title: 'Node.js',
-      level: 3,
-    },
-    {
-      title: 'AWS',
-      level: 3,
-    },
-    {
-      title: 'PHP',
-      level: 2,
-    },
-    {
       title: 'Java',
-      level: 1,
     },
     {
-      title: 'Python',
-      level: 1,
+      title: 'AWS(EC2)',
     },
     {
-      title: 'C/C++',
-      level: 1,
+      title: 'Spring',
+    },
+    {
+      title: 'Spring Boot',
+    },
+    {
+      title: 'JPA',
     },
   ],
 };
@@ -35,19 +26,15 @@ const database: ISkill.Skill = {
   items: [
     {
       title: 'MySQL',
-      level: 3,
     },
     {
       title: 'Oracle',
-      level: 2,
     },
     {
-      title: 'Redis',
-      level: 2,
+      title: 'MariaDB',
     },
     {
       title: 'MongoDB',
-      level: 1,
     },
   ],
 };
@@ -56,20 +43,16 @@ const frontend: ISkill.Skill = {
   category: 'Front-end',
   items: [
     {
-      title: 'Next.js',
-      level: 2,
+      title: 'JavaScript',
     },
     {
-      title: 'React.js',
-      level: 2,
+      title: 'Vue.js',
     },
     {
-      title: 'javascript',
-      level: 2,
+      title: 'TypeScript',
     },
     {
       title: 'HTML/CSS',
-      level: 2,
     },
   ],
 };
@@ -84,10 +67,22 @@ const etc: ISkill.Skill = {
       title: 'Vim',
     },
     {
-      title: 'Security',
+      title: 'Maven',
     },
     {
-      title: 'VS Code',
+      title: 'Gradle',
+    },
+    {
+      title: 'TDD',
+    },
+    {
+      title: 'Git / Github',
+    },
+    {
+      title: 'IntelliJ',
+    },
+    {
+      title: 'Bitbucket',
     },
     {
       title: 'Jira',
@@ -101,7 +96,6 @@ const etc: ISkill.Skill = {
 const skill: ISkill.Payload = {
   disable: false,
   skills: [backend, database, frontend, etc],
-  tooltip: '1: 기초 수준\n2: 취미 개발 수준\n3: Production 개발 가능 수준',
 };
 
 export default skill;
