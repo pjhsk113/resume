@@ -40,6 +40,16 @@ const etc: IEtc.Payload = {
       startedAt: '2014-10',
       endedAt: '2016-07',
     },
+    {
+      title: '정보처리기사',
+      subTitle: '',
+      startedAt: '2019-11',
+    },
+    {
+      title: 'TOEIC Speaking Lv6',
+      subTitle: '',
+      startedAt: '2019-01',
+    },
   ],
 };
 
