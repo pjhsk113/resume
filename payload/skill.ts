@@ -8,18 +8,6 @@ const backend: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'AWS(EC2)',
-      level: 2,
-    },
-    {
-      title: 'Python',
-      level: 2,
-    },
-    {
-      title: 'C/C++',
-      level: 1,
-    },
-    {
       title: 'Spring',
       level: 3,
     },
@@ -28,12 +16,24 @@ const backend: ISkill.Skill = {
       level: 3,
     },
     {
+      title: 'AWS(EC2)',
+      level: 2,
+    },
+    {
+      title: 'Python',
+      level: 2,
+    },
+    {
       title: 'JPA',
       level: 2,
     },
     {
       title: 'Django',
       level: 2,
+    },
+    {
+      title: 'C/C++',
+      level: 1,
     },
   ],
 };
