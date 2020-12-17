@@ -73,13 +73,13 @@ function createBadge(level?: ISkill.Item['level']) {
 
   const color = (() => {
     switch (level) {
-      case '상': {
+      case 3: {
         return 'primary';
       }
-      case '중': {
+      case 2: {
         return 'secondary';
       }
-      case '하':
+      case 1:
       default: {
         return 'light';
       }
