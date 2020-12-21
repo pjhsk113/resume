@@ -21,7 +21,7 @@
   "homepage": "https://pjhsk113.github.io/resume/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uyu423/resume-nextjs.git"
+    "url": "git+https://github.com/pjhsk113/resume.git"
   },
   "keywords": [
     "resume",
