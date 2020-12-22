@@ -1,5 +1,5 @@
 import favicon from '../asset/favicon.ico';
-import previewImage from '../asset/preview.jpg';
+import previewImage from '../asset/32737230.png';
 import { IGlobal } from '../component/common/IGlobal';
 
 const title = 'RESUME: Jangho Park';
@@ -24,10 +24,10 @@ export const _global: IGlobal.Payload = {
       ],
       type: 'profile',
       profile: {
-        firstName: 'Lorem',
-        lastName: 'ipsum',
-        username: 'lorem',
-        gender: 'female',
+        firstName: 'Park',
+        lastName: 'Jangho',
+        username: 'Jangduk',
+        gender: 'male',
       },
     },
   },
