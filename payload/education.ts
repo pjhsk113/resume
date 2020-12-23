@@ -6,7 +6,7 @@ const education: IEducation.Payload = {
   list: [
     {
       title: '국립 한경대학교',
-      subTitle: '전기전자제어 공학과 - 제어트랙 3.3 / 4.5 졸업',
+      subTitle: '전기전자제어 공학과 3.3 / 4.5 졸업',
       startedAt: '2012-03',
       endedAt: '2018-08',
     },
