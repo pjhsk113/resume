@@ -12,7 +12,7 @@ const education: IEducation.Payload = {
     },
     {
       title: '신구대학교',
-      subTitle: '컴퓨터 멀티미디어 공학과 4.4 / 4.5 졸업',
+      subTitle: '컴퓨터 멀티미디어 공학과 4.3 / 4.5 졸업',
       startedAt: '2010-03',
       endedAt: '2012-02',
     },
