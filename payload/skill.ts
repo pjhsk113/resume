@@ -8,10 +8,6 @@ const backend: ISkill.Skill = {
       level: 3,
     },
     {
-      title: 'Spring',
-      level: 3,
-    },
-    {
       title: 'Spring Boot',
       level: 3,
     },
