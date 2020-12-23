@@ -8,7 +8,7 @@ const etc: IEtc.Payload = {
       title: 'NextStep 클린코드를 위한 TDD, 리팩토링 with Java',
       subTitle: '클린코드 작성과 TDD 역량 향상을 위한 강의 수강',
       startedAt: '2020-08',
-      endedAt: '2020-09',
+      endedAt: '2020-10',
     },
     {
       title: 'Dacon 반도체 박막 두께 분석 경진대회',
