@@ -12,19 +12,15 @@ const backend: ISkill.Skill = {
       level: 3,
     },
     {
+      title: 'JPA',
+      level: 2,
+    },
+    {
       title: 'AWS(EC2)',
       level: 2,
     },
     {
       title: 'Python',
-      level: 2,
-    },
-    {
-      title: 'JPA',
-      level: 2,
-    },
-    {
-      title: 'Django',
       level: 2,
     },
     {
@@ -82,10 +78,7 @@ const etc: ISkill.Skill = {
   category: 'Etc',
   items: [
     {
-      title: 'Ubuntu',
-    },
-    {
-      title: 'Vim',
+      title: 'Linux',
     },
     {
       title: 'Maven',
