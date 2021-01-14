@@ -18,15 +18,7 @@ const backend: ISkill.Skill = {
     {
       title: 'AWS(EC2)',
       level: 2,
-    },
-    {
-      title: 'Python',
-      level: 2,
-    },
-    {
-      title: 'C/C++',
-      level: 1,
-    },
+    }
   ],
 };
 
