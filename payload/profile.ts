@@ -1,7 +1,7 @@
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
 import { faBell } from '@fortawesome/free-regular-svg-icons';
 import { faGithub, faBlogger } from '@fortawesome/free-brands-svg-icons';
-import image from '../asset/32737230.png';
+import image from '../asset/profileImg.jpg';
 import { IProfile } from '../component/profile/IProfile';
 
 const profile: IProfile.Payload = {
@@ -18,6 +18,11 @@ const profile: IProfile.Payload = {
       title: 'pjhsk113@naver.com',
       link: '#',
       icon: faEnvelope,
+    },
+    {
+      title: 'Please contact me by email',
+      icon: faPhone,
+      badge: true,
     },
     {
       title: 'https://github.com',
