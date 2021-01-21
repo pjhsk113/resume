@@ -25,7 +25,6 @@ const experience: IExperience.Payload = {
         'Spring Security',
         'JDBC',
         'Swagger',
-        'Tomcat',
         'CentOS',
         'Windows',
         'Bitbucket',
