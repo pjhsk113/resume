@@ -30,15 +30,9 @@ const etc: IEtc.Payload = {
     },
     {
       title: 'CENTRONIX',
-      subTitle: '개발 동아리 활동을 통해 다양한 프로젝트 경험',
+      subTitle: '개발 동아리 활동',
       startedAt: '2017-03',
       endedAt: '2018-08',
-    },
-    {
-      title: '의무 경찰 만기 전역',
-      subTitle: '경찰 버스 운전병으로 근무',
-      startedAt: '2014-10',
-      endedAt: '2016-07',
     },
     {
       title: '정보처리기사',

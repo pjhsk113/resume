@@ -90,8 +90,6 @@ const project: IProject.Payload = {
         },
         { content: 'Swagger를 도입하여 API 문서 자동화' },
         { content: '설계 및 소프트웨어 스펙 선정 과정 등을 경험' },
-        { content: 'Java8 활용을 통한 모던 자바 지식 습득' },
-        { content: '기능 추가에 따른 확장성의 중요성을 느낌' },
       ],
     },
   ],
