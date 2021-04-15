@@ -1,7 +1,7 @@
 import { ISkill } from '../component/skill/ISkill';
 
 const backend: ISkill.Skill = {
-  category: 'Back-end',
+  category: 'Backend',
   items: [
     {
       title: 'Java',
@@ -10,11 +10,29 @@ const backend: ISkill.Skill = {
       title: 'Spring Boot',
     },
     {
-      title: 'JPA',
+      title: 'Spring MVC',
+    },
+    {
+      title: 'Junit5',
+    },
+    {
+      title: 'assertJ',
+    },
+    {
+      title: 'Gradle',
+    },
+    {
+      title: 'Git, Sourcetree',
+    },
+    {
+      title: 'IntelliJ',
     },
     {
       title: 'AWS(EC2)',
-    }
+    },
+    {
+      title: 'Linux',
+    },
   ],
 };
 
@@ -23,9 +41,6 @@ const database: ISkill.Skill = {
   items: [
     {
       title: 'MySQL',
-    },
-    {
-      title: 'Oracle',
     },
     {
       title: 'MariaDB',
@@ -37,52 +52,31 @@ const database: ISkill.Skill = {
 };
 
 const frontend: ISkill.Skill = {
-  category: 'Front-end',
+  category: 'Frontend',
   items: [
     {
-      title: 'JavaScript',
+      title: 'JavaScript(ES6)',
     },
     {
-      title: 'Vue.js',
+      title: 'Vue.js, Vuex',
     },
     {
       title: 'TypeScript',
     },
     {
-      title: 'HTML/CSS',
+      title: 'HTML, CSS',
     },
   ],
 };
 
 const etc: ISkill.Skill = {
-  category: 'Etc',
+  category: 'Collaboration',
   items: [
-    {
-      title: 'Linux',
-    },
-    {
-      title: 'Maven',
-    },
-    {
-      title: 'Gradle',
-    },
-    {
-      title: 'TDD',
-    },
-    {
-      title: 'Git / Github',
-    },
-    {
-      title: 'IntelliJ',
-    },
     {
       title: 'Bitbucket',
     },
     {
-      title: 'Jira',
-    },
-    {
-      title: 'Confluence',
+      title: 'Jira & Wiki Confluence',
     },
   ],
 };
