@@ -35,7 +35,7 @@ const profile: IProfile.Payload = {
     },
   ],
   notice: {
-    title: '코드로 소통하고 싶은 개발자 박장호입니다.',
+    title: '코드로 소통하고 싶은 개발자, 박장호입니다.',
     icon: faBell,
   },
 };
